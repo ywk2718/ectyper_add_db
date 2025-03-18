@@ -5,7 +5,7 @@ This repository contains additional database files for ECTyper <sup>(1</sup>.
   O/H-genotyping database for <I>E. coli</I> including original 179 and 53 O/H-genotypes and additional 36 O-genotypes reported in references 2, 3, 4.
      
 * ectyper_alleles_Eadb.json   
-  O/H-genotyping database for <I>E. albertii</I> containing EAOg1-40/EAHg1-4 <sup>(5,6</sup>.
+  O/H-genotyping database for <I>E. albertii</I> including EAOg1-40/EAHg1-4 <sup>(5,6</sup>.
 
 ## References
 1.  Bessonov K, et al. "ECTyper: <I>in silico Escherichia coli</I> serotype and species prediction from raw and assembled whole-genome sequence data." <I>Microb Genom</I>. 2021;7(12):000728. doi: 10.1099/mgen.0.000728.
